@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Scholarships, Funding, & Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,38 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "SSHRC"
+  title = "Joseph-Armand Bombardier Canada Graduate Scholarships (Doctoral)"
+  date_start = "2021-09-07"
+  description = "$105,000"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Faculty of Graduate Studies, York University"
+  title = "Nominated for Best Thesis Award (Master’s)"
+  date_start = "2020-07-31"
+  description = "$1,000"
+
+[[item]]
+  organization = "Faculty of Graduate Studies, York University"
+  title = "Ontario Graduate Scholarship"
+  date_start = "2019-09-07"
+  description = "$15,000"
+
+[[item]]
+  organization = "SSHRC"
+  title = "Canada Graduate Scholarships – Master’s (CGS-M)"
+  date_start = "2018-09-07"
+  description = "$17,500"
+
+[[item]]
+  organization = "Faculty of Health, York University"
+  title = "The W.B. Templeton Honours Thesis Award for Most Outstanding Honours Thesis"
+  date_start = "2017-09-07"
+  description = "$100"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  organization = "Faculty of Health, York University"
+  title = "The Ivana Guglietti-Kelly Award for Outstanding Qualitative Paper"
+  date_start = "2017-09-07"
+  description = "$500"
 +++
