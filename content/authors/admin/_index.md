@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Compassion, economic threat, and statistics
+role: MA, Social and Personality Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://yorksp.blogspot.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include compassion in the workplace (micro and macro, self and other), the psychological consequences economic threat, and quantitative methodology.
+bio: My research interests include economic stress and coping, compassion in the workplace (micro and macro, self and other), the psychological consequences of economic threat, and quantitative methodology.
 
 interests:
 - Compassion in the workplace (micro and macro, self and other) 
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Daniel J. Chiacchia holds a Master’s degree in Social Psychology from York University and he is currently a Research Advisor at Kinark Child and Family Services. 
+Daniel J. Chiacchia holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency.
