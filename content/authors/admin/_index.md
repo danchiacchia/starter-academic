@@ -18,12 +18,12 @@ organizations:
   url: "http://yorksp.blogspot.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include economic stress and coping, compassion in the workplace (micro and macro, self and other), the psychological consequences of economic threat, and quantitative methodology.
+bio: My research interests include the social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises)
 
 interests:
-- Compassion in the workplace (micro and macro, self and other) 
-- The social psychology of economic threat, especially in the context of the automation of work 
-- Best practices in quantitative methodology
+- The social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises)
+- How leaders can effectively adapt to organizational change and promote worker well-being
+- Best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes
 
 education:
   courses:
