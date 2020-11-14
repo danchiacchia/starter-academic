@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises)
 
-interests:
-- The social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises)
-- How leaders can effectively adapt to organizational change and promote worker well-being
-- Best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes
-
 education:
   courses:
   - course: MA in Social Psychology
@@ -74,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Daniel J. Chiacchia holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency.
+Daniel J. Chiacchia holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency. Daniel's research interests include the social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises); how leaders can effectively adapt to organizational changes and promote worker well-being; as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
