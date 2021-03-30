@@ -10,18 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: MA, Social and Personality Psychology
+role: PhD Student, Organizational Behaviour and Human Resource Management
 
 # Organizations/Affiliations
 organizations:
-- name: York University
-  url: "http://yorksp.blogspot.com"
+- name: Rotman School of Management, University of Toronto
+  url: "https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/OBandHRManagement"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises)
+bio: My research interests include the social psychology of working in the digital economy (e.g., the automation of work and dehumanization, ‘gig’ work); leadership during threat and uncertainty (e.g., how leaders effectively adapt to change); as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
 
 education:
   courses:
+  - course: PhD in Management
+    institution: Rotman School of Management
+    year: 2026
   - course: MA in Social Psychology
     institution: York University
     year: 2020
@@ -69,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Daniel J. Chiacchia holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency. Daniel's research interests include the social-psychological consequences of organizational change, especially in relation to technological change (e.g., the automation of work and dehumanization) and economic shocks (e.g., self-compassion and worker-wellbeing during financial crises); how leaders can effectively adapt to organizational changes and promote worker well-being; as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
+Daniel J. Chiacchia is an incoming PhD student in Organizational Behaviour and Human Resource Management at the University of Toronto. He holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency. Daniel's research interests include the social psychology of working in the digital economy (e.g., the automation of work and dehumanization, ‘gig’ work); leadership during threat and uncertainty (e.g., how leaders effectively adapt to change); as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
