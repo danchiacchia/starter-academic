@@ -22,9 +22,6 @@ bio: My research interests include the social psychology of working in the digit
 
 education:
   courses:
-  - course: PhD in Management
-    institution: Rotman School of Management
-    year: 2026
   - course: MA in Social Psychology
     institution: York University
     year: 2020
