@@ -7,5 +7,5 @@ google_fonts = "family=Fira+Sans:wght@500&family=Roboto"
 # Font families
 heading_font = "Fira Sans"
 body_font = "Roboto"
-nav_font = "Roboto"
+nav_font = "Fira Sans"
 mono_font = "Roboto"
