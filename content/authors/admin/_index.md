@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, Organizational Behaviour and Human Resource Management
+role: PhD Candidate, Organizational Behaviour and Human Resource Management
 
 # Organizations/Affiliations
 organizations:
 - name: Rotman School of Management, University of Toronto
-  url: "https://www.rotman.utoronto.ca/Degrees/PhD/Academics/MajorAreasofStudy/OBandHRManagement"
+  url: "https://www.rotman.utoronto.ca/programs/phd-program/major-areas-of-study/obhrm-accordions/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the social psychology of working in the digital economy (e.g., the automation of work and dehumanization, ‘gig’ work); leadership during threat and uncertainty (e.g., how leaders effectively adapt to change); as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
@@ -36,16 +36,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:danielchiacchia@gmail.com  # For a direct email link, use "mailto:danielchiacchia@gmail.com".
+  link: mailto:daniel.chiacchia@rotman.utoronto.ca  # For a direct email link, use "mailto:danielchiacchia@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/danielchiacchia
+  link: https://x.com/danielchiacchia
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=IxM7NtMAAAAJ&hl=en&oi=ao
 - icon: osf
   icon_pack: ai
   link: https://osf.io/mspu4/
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/daniel-chiacchia-184b93140/
 - icon: cv
   icon_pack: ai
   link: media/files/chiacchia_cv.pdf
@@ -69,4 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Daniel J. Chiacchia is an incoming PhD student in Organizational Behaviour and Human Resource Management at the University of Toronto. He holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency. Daniel's research interests include the social psychology of working in the digital economy (e.g., the automation of work and dehumanization, ‘gig’ work); leadership during threat and uncertainty (e.g., how leaders effectively adapt to change); as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
+I study how people communicate during emotionally salient events. Drawing on social psychological and micro-organizational behavior theory, and using a multi-method approach spanning qualitative interviews, lab and field experiments, and advanced statistical techniques like psychometric natural language processing,
+archival data, that emphasizes the impact of emotions, norms, and authenticity on individual and dyadic behavior  communithe psychology of communicating under pressure. Daniel J. Chiacchia is an incoming PhD student in Organizational Behaviour and Human Resource Management at the University of Toronto. He holds a Master’s degree in Social and Personality Psychology from York University and he is currently a Research Advisor at Ontario's largest child and youth mental health agency. Daniel's research interests include the social psychology of working in the digital economy (e.g., the automation of work and dehumanization, ‘gig’ work); leadership during threat and uncertainty (e.g., how leaders effectively adapt to change); as well as best practices in quantitative methodology, including open science, replicability, statistical power, data visualization, and effect sizes.
